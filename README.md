@@ -3,4 +3,4 @@
  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lazarus0320)](https://solved.ac/lazarus0320/)
-![lazarus0320's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![lazarus0320's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarus0320&show_icons=true&theme=radical)
