@@ -1,5 +1,5 @@
-### 민지훈 MIN JI HUN 👋
 
+### 민지훈 MIN JI HUN 👋
 BackEnd Engineer  
 팀원과의 의사소통 뿐만 아니라 미래의 팀원들에게도 의사소통이 될 수 있는 문서와 코드를 쓰고자 최선을 다하고 있습니다.
 
@@ -8,7 +8,6 @@ BackEnd Engineer
 ### 🛠️ Tech Stack
 
 #### Backend
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,7 +15,6 @@ BackEnd Engineer
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### DevOps & Tools
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -24,18 +22,15 @@ BackEnd Engineer
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 #### Frontend & UI/UX
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Collaboration & Documentation
-
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ### 📖 Latest Blog Posts
-
-<a href="https://afterdawncoding.tistory.com/309">외래키 대신 UUID를 사용하여 연관관계의 복잡도 해소하기</a></br>게시일자 : 2024.09.01 05:36:46</br></br><a href="https://afterdawncoding.tistory.com/308">스파로스 아카데미 5기 합격 후기</a></br>게시일자 : 2024.08.12 07:29:28</br></br><a href="https://afterdawncoding.tistory.com/307">JWT와 Access Token, Refresh Token, RTR 방식 정리</a></br>게시일자 : 2023.09.25 06:08:11</br></br><a href="https://afterdawncoding.tistory.com/306">[Java] 프로그래머스 : 프로세스</a></br>게시일자 : 2023.09.16 22:02:22</br></br><a href="https://afterdawncoding.tistory.com/305">[Java] 프로그래머스 : 튜플</a></br>게시일자 : 2023.09.11 22:23:39</br></br>
+<a href="https://afterdawncoding.tistory.com/309">외래키 대신 UUID를 사용하여 연관관계의 복잡도 해소하기</a></br>게시일자 : 2024.08.31 20:36:46</br></br><a href="https://afterdawncoding.tistory.com/308">스파로스 아카데미 5기 합격 후기</a></br>게시일자 : 2024.08.11 22:29:28</br></br><a href="https://afterdawncoding.tistory.com/307">JWT와 Access Token, Refresh Token, RTR 방식 정리</a></br>게시일자 : 2023.09.24 21:08:11</br></br><a href="https://afterdawncoding.tistory.com/306">[Java] 프로그래머스 : 프로세스</a></br>게시일자 : 2023.09.16 13:02:22</br></br><a href="https://afterdawncoding.tistory.com/305">[Java] 프로그래머스 : 튜플</a></br>게시일자 : 2023.09.11 13:23:39</br></br>
