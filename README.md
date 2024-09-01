@@ -1,10 +1,7 @@
 
-### Hi there 👋
-
-[![lazarus0320's github stats](https://github-readme-stats.vercel.app/api?username=lazarus0320&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarus0320&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lazarus0320)](https://solved.ac/lazarus0320)
+### 민지훈 MIN JI HUN 👋
+BackEnd Engineer
+팀원과의 의사소통 뿐만 아니라 미래의 팀원들에게도 의사소통이 될 수 있는 문서와 코드를 쓰고자 최선을 다하고 있습니다.
 
 ---
 
