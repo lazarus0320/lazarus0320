@@ -25,7 +25,7 @@
 
 | ![lazarus0320's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarus0320&show_icons=true&theme=highcontrast) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lazarus0320)](https://solved.ac/lazarus0320/) |
 | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarus0320&layout=compact) | [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=After Dawn Coding&postId=default)](https://github.com/loosie/github-readme-tistory-card)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarus0320&layout=compact) | (https://github.com/loosie/github-readme-tistory-card)
  |
 
 <div align=center>
