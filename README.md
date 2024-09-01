@@ -25,7 +25,8 @@
 
 | ![lazarus0320's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarus0320&show_icons=true&theme=highcontrast) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lazarus0320)](https://solved.ac/lazarus0320/) |
 | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarus0320&layout=compact) | [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=afterdawncoding&theme=default)](https://github.com/loosie/github-readme-tistory-card) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarus0320&layout=compact) | [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={After Dawn Coding}&postId={default})](https://github.com/loosie/github-readme-tistory-card)
+ |
 
 <div align=center>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flazarus0320&count_bg=%23735AFF&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a> <a href="https://afterdawncoding.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
