@@ -5,6 +5,14 @@ BackEnd Engineer
 
 ---
 
+### 💼 Experience
+
+| Period | Organization | Role / Project |
+|:--- |:--- |:--- |
+| **2026.03 - Present** | **BNK 시스템** | **Backend Developer** |
+| 2025.04 - 2025.12 | 한국교육학술정보원 (KERIS) | 교원 전용 디지털콘텐츠 플랫폼 잇다 정보화 사업 관리 |
+| 2023.12 - 2024.02 | KAIST AUTO ID LAB | GS1 글로벌 표준 Project 개발 |
+
 ### 🛠️ Tech Stack
 
 #### Backend
