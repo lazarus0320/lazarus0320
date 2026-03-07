@@ -5,6 +5,11 @@ BackEnd Engineer
 
 ---
 
+### Career
+2023.12. ~ 2024.02. KAIST AUTO ID LAB
+2025.04. ~ 2025.12. 한국교육학술정보원(KERIS)
+2026.03.            BNK 시스템
+
 ### 🛠️ Tech Stack
 
 #### Backend
