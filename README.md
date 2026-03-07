@@ -12,8 +12,6 @@ BackEnd Engineer
 
 ---
 
----
-
 ### 🛠️ Tech Stack
 
 #### Backend
