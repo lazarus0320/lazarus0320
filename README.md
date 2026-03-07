@@ -3,11 +3,6 @@
 BackEnd Engineer  
 팀원과의 의사소통 뿐만 아니라 미래의 팀원들에게도 의사소통이 될 수 있는 문서와 코드를 쓰고자 최선을 다하고 있습니다.
 
-### Career
-2023.12. ~ 2024.02. KAIST AUTO ID LAB
-2025.04. ~ 2026.12. 한국교육학술정보원(KERIS)
-2026.03. ~          BNK 시스템
-
 ---
 
 ### 🛠️ Tech Stack
@@ -38,4 +33,4 @@ BackEnd Engineer
 ---
 
 ### 📖 Latest Blog Posts
-<a href="https://afterdawncoding.tistory.com/310">Inner class를 활용한 DTO 리팩토링</a></br>게시일자 : 2024.09.10 01:01:32</br></br><a href="https://afterdawncoding.tistory.com/309">외래키 대신 UUID를 사용하여 연관관계의 복잡도 해소하기</a></br>게시일자 : 2024.08.31 20:36:46</br></br><a href="https://afterdawncoding.tistory.com/308">스파로스 아카데미 5기 합격 후기</a></br>게시일자 : 2024.08.11 22:29:28</br></br><a href="https://afterdawncoding.tistory.com/307">JWT와 Access Token, Refresh Token, RTR 방식 정리</a></br>게시일자 : 2023.09.24 21:08:11</br></br><a href="https://afterdawncoding.tistory.com/306">[Java] 프로그래머스 : 프로세스</a></br>게시일자 : 2023.09.16 13:02:22</br></br>
+<a href="https://afterdawncoding.tistory.com/311">스파로스 아카데미 5기 1차 프로젝트 후기</a></br>게시일자 : 2024.10.05 18:08:27</br></br><a href="https://afterdawncoding.tistory.com/310">Inner class를 활용한 DTO 리팩토링</a></br>게시일자 : 2024.09.10 01:01:32</br></br><a href="https://afterdawncoding.tistory.com/309">외래키 대신 UUID를 사용하여 연관관계의 복잡도 해소하기</a></br>게시일자 : 2024.08.31 20:36:46</br></br><a href="https://afterdawncoding.tistory.com/308">스파로스 아카데미 5기 합격 후기</a></br>게시일자 : 2024.08.11 22:29:28</br></br><a href="https://afterdawncoding.tistory.com/307">JWT와 Access Token, Refresh Token, RTR 방식 정리</a></br>게시일자 : 2023.09.24 21:08:11</br></br>
